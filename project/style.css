@@ -1,0 +1,9 @@
+nav div {
+    float: right;
+    
+}
+.right{
+    display: block;
+    margin-right: 10%;
+    width: auto;
+}
